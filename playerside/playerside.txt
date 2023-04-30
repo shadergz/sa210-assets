@@ -1,0 +1,1 @@
+cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
